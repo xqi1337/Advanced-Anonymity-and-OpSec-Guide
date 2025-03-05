@@ -3,7 +3,7 @@
 ### Advanced Anonymity and OpSec Guide
 ###
 ### 
-#####################################################################################
+##########################################################################################
 # Vorwort ##########################
 
 Starke Anonymität soll Risikogruppen Schutz gegen Repressionen bieten. Es gibt sehr unterschiedliche Gründe, warum man Repressionen befürchten könnte. Minderheiten befürchten Repressionen durch die Majorität. Wer Regeln, Gesetze o.a. staatliche Vorgaben nicht respektieren möchte, muss Repressionen durch den Macht- bzw. Staatsapparat befürchten, wir fürchten in den meisten Fällen die Strafverfolgung durch Ermittlungsbehörden. 
