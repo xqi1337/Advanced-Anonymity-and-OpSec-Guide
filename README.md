@@ -3,7 +3,7 @@
 
 ###
 ### 
-##########################################################################################
+#######################################################################################
 # Vorwort ##########################
 
 Starke Anonymität soll Risikogruppen Schutz gegen Repressionen bieten. Es gibt sehr unterschiedliche Gründe, warum man Repressionen befürchten könnte. Minderheiten befürchten Repressionen durch die Majorität. Wer Regeln, Gesetze o.a. staatliche Vorgaben nicht respektieren möchte, muss Repressionen durch den Macht- bzw. Staatsapparat befürchten, wir fürchten in den meisten Fällen die Strafverfolgung durch Ermittlungsbehörden. 
@@ -15,9 +15,9 @@ Durch starke Anonymisierung ist ein Tracking von einzelnen Individuen zur Erstel
 Die gute Nachricht: Wir wissen seit Edward Snowdens Enthüllungen, das wir nicht paranoid sind! Die schlechte Nachricht: Wir werden alle überwacht. Jetzt und überall. Im folgenden Guide wird beschrieben, welche Schritte notwendig sind, um der Überwachung zu entgehen und unsere Identität online geheim zu halten. In unseren Beispielen gehen wir von Firefox Webbrowser und Thunerbird Mailclient aus.
 
 
-##########################################################################################
+#######################################################################################
 # Grundlagen
-##########################################################################################
+#######################################################################################
 
 
 ### Clearnet vs Darknet
