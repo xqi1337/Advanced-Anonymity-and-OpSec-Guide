@@ -1,6 +1,6 @@
 # Advanced-Anonymity-and-OpSec-Guide
 
-### Advanced Anonymity and OpSec Guide
+
 ###
 ### 
 ##########################################################################################
