@@ -142,9 +142,9 @@ Alternativ dazu kann man auch eine spezialisierte Linux-Distribution wie zum Bei
 Tails eignet sich sehr gut für den Einsatz auf fremden PCs, da es ein abgeschlossenes System ist, das auf dem damit gestarteten Rechner keinerlei Spuren hinterlässt.
 
 
-##########################################################################################
+#######################################################################################
 # Microsoft Windows ist immer unsicher
-##########################################################################################
+#######################################################################################
 
 Mit Windows 8.0 hat Microsoft begonnen, dass bei Smartphones akzeptierte Device- based Tracking auch bei PCs einzuführen. Ähnlich wie Google bei Android will Microsoft als einer der fünf größten Datensammler im Internet seine Datenbestände erweitern und besser personalisieren. Das war der Anfang. 
 Das Erstellen eines User-Account unter Windows 8.1 wurde ein echtes Dark Pattern. Der Nutzer wird massiv gedrängt, den User-Account auf dem Rechner mit einem Online Konto bei Hotmail oder Windows Live zu verbinden. Nur wenn man in der Eingabemaske falsche Angaben macht, findet man in der Fehlermeldung den unscheinbaren Link für das Erstellen eines User-Account ohne Online Konto bei Microsoft. 
@@ -185,10 +185,10 @@ Fazit:
 Windows ist also alles andere als sicher und bestimmt nicht gut für unsere Zwecke geeignet. Daher empfehlen wir, wenn es unbedingt Windows sein muss eine ältere Version wie Windows XP oder deren Nachfolger zu benutzten. 
 
 
-################################################################
-##########################################################################################
+
+#######################################################################################
 #  Anonymisierung von Firefox
-##########################################################################################
+#######################################################################################
 
 Mozilla Firefox ist der Webbrowser der Mozilla Foundation und kann durch viele von der Community entwickelte Add-ons und Anpassungen in der Konfiguration zu einem sicheren und privacy-freundlichen Browser aufgewertet werden. Er ist kostenfrei nutzbar und steht auf der Downloadseite für Windows und MacOS bereit. 
 → https://www.mozilla.org/en-US/firefox/all/
@@ -230,9 +230,9 @@ dom.storage.enabled = false
 extensions.blocklist.enabled = false
 
 
-##########################################################################################
+#######################################################################################
 #  Festplatten Verschlüsseln
-##########################################################################################
+#######################################################################################
 
 Warum überhaupt verschlüsseln? Klare Sache, falls doch mal die Polizei vor der Türe steht werden sie sicher euren Rechner, alle Speichermedien usw beschlagnahmen. Schlecht wenn dann alle eure Geschäfte, Accounts, Daten auf dem Rechner gespeichert sind. Wenn die Platte oder bzw. ein Container gut verschlüsselt ist und das Passwort nicht leicht erraten werden kann kommt nicht mal die CIA an eure Daten ran, versprochen. Zum Verschlüssen benutzen wir Veracrypt.
 
@@ -284,18 +284,18 @@ Bevor du wichtige Daten in den Container legst teste bitte ob alles funktioniert
 - Der Container ist nun unter dem Laufwerksbuchstaben verfügbar
 
 
-##########################################################################################
+#######################################################################################
 #  Tor-Browser-Bundle | Security STAGE 1
-##########################################################################################
+#######################################################################################
 
 Mit wenigen Klicks surfen wir anonym über Tor im Netz – ganz gleich, ob unter Windows, Linux oder OS X. Der Tor-Browser ist die einfachste und schnellste Lösung anonym ins Internet zu kommen.
 Der Einstieg in das Anonymisierungs-Netzwerk Tor ist schnell geschafft und nicht komplizierter als eine Firefox-Installation. Das kostenlose Tor-Browser-Bundle bringt alles mit, was wir brauchen: den Tor-Client, der eine Verbindung zum Netzwerk herstellt sowie eine vollständig vorkonfigurierte Firefox-Version namens Tor Browser. Damit wir auch tatsächlich anonym surfen und nicht an eine manipulierte Version des Bundles geraten, sollten man nur direkt beim Tor Project herunterladen. 
 Der Tor-Browser ist für Gelegenheits-User gut geeignet und auch völlig ausreichend.
 
 
-##########################################################################################
+#######################################################################################
 #  Tails auf USB-Stick | Security STAGE 2
-##########################################################################################
+#######################################################################################
 
 Tails ist ein Live-Betriebssystem, das darauf ausgerichtet ist unsere Privatsphäre und Anonymität zu bewahren. Es hilft uns dabei, das Internet so gut wie überall und von jedem Computer aus anonym zu nutzen, ohne dabei Spuren zu hinterlassen, sofern wir dies nicht ausdrücklich wünschen.
 
@@ -350,9 +350,9 @@ Wer Tails auf einem USB-Stick oder einer Speicherkarte nutzt, hat den Vorteil, d
 Wir können die Benutzeroberfläche von Tails so einstellen, dass sie der von Windows XP ähnelt. Dazu müssen wir in Tails unter „System → Einstellungen → Erscheinungsbild“ die Windows XP Benutzeroberfläche auswählen und bestätigen. Das machst die Nutzung für viele User einfacher.
 
 
-##########################################################################################
+#######################################################################################
 #  Hochsicheres Whonix System | Security STAGE 3
-##########################################################################################
+#######################################################################################
 
 Whonix ist eine Debian-basierende Linux-Distribution, die auf Privatsphäre, Sicherheit und Anonymität im Internet Wert legt. Um dies zu erreichen, setzt Whonix insbesondere auf die Nutzung des Tor-Netzwerks. 
 
@@ -402,9 +402,9 @@ Passwörter sollten nach der Installation geändert werden. Ganz einfach ein Ter
 Gearbeitet wird NUR in der Whonix Workstation. Das Gateway MUSS immer laufen da die Workstation sonst keine Verbindung zum TOR-Netzwerk aufbauen kann.
 
 
-##########################################################################################
+#######################################################################################
 # Finish
-##########################################################################################
+#######################################################################################
 
 Das waren die Grundlagen in der Online-Sicherheit. Hat dir der Guide gefallen, dann freuen wir uns über gutes Feedback von dir. Hast du etwas nicht verstanden oder hast Verbesserungsvorschläge dann schreib uns eine Nachricht. Wir freuen uns über jeden Input mit dem wir unsere Produkte verbessern können.
 
